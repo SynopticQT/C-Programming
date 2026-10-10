@@ -37,7 +37,7 @@ gcc C-Beginner-Programs/pyramid.c -o pyramid
 
 ---
 
-## 🛠️ How to Compile Globally
+## How to Compile Globally
 Ensure you have a C compiler like `gcc` installed. For any programs leveraging the `<math.h>` standard library (like the Car Loan Calculator), remember to append the math link flag (`-lm`) during compilation:
 
 ```bash
