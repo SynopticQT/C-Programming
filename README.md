@@ -2,7 +2,7 @@
 
 Welcome to my C programming repository! This is a central collection of my C projects, ranging from foundational logic exercises to practical application calculators.
 
-## 📂 Repository Structure
+## Repository Structure
 
 * **`C-Beginner-Programs/`** - A collection of introductory scripts, pattern generation algorithms, and logic practice.
   * `pyramid.c` - Generates a symmetrical star (*) pyramid based on custom user row input.
@@ -11,7 +11,7 @@ Welcome to my C programming repository! This is a central collection of my C pro
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. Car Loan Monthly Payment Calculator
 A lightweight utility that calculates fixed amortized monthly payments. 
