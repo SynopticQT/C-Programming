@@ -7,7 +7,7 @@ Welcome to my C programming repository! This is a central collection of my C pro
 * **`C-Beginner-Programs/`** - A collection of introductory scripts, pattern generation algorithms, and logic practice.
   * `pyramid.c` - Generates a symmetrical star (*) pyramid based on custom user row input.
 * **`Car-Loan-Calculator/`** - A standalone practical finance utility.
-  * `main.c` - Computes exact fixed monthly car loan payments based on principal, down payment, and interest rate.
+  * `carLoanCalculator.c` - Computes exact fixed monthly car loan payments based on principal, down payment, and interest rate.
 
 ---
 
